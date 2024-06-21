@@ -1,9 +1,5 @@
-# listtask
-aplicacion lista de tarea con vite js
+# js-moderno-vite-todo
 
-#descargar dependencias
-npm i 
-
-#correr aplicacion 
-npm run dev
-
+1. Clonar repositorio
+2. Ejecutar ```npm install```
+3. Ejecutar ```npm run dev``` para correr en desarrollo
